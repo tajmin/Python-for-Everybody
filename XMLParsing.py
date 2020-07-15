@@ -1,3 +1,6 @@
+#The program prompts for a URL, reads the XML data from that URL using urllib and then parses and 
+# extracts the comment counts from the XML data, computes the sum of the numbers in the file.
+
 import urllib.request, urllib.parse, urllib.error
 import xml.etree.ElementTree as ET
 import ssl
