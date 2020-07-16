@@ -1,1 +1,1 @@
-# Programming for Everybody Specialization on Coursera 
+# Python for Everybody Specialization on Coursera 
